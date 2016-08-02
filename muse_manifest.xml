@@ -1,0 +1,106 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430346954652">
+  <folder name="css">
+    <file name="site_global.css" crc="3966968046"/>
+    <file name="index.css" crc="428834414" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="video1.png" crc="3851085020" mt="1428792805000"/>
+    <file name="video_01.webmhd.webm" crc="4057642524" mt="1428945788000"/>
+    <file name="video_02.webmhd.webm" crc="3845005774" mt="1428982583000"/>
+    <file name="video2.png" crc="3870509497" mt="1428795203000"/>
+    <file name="video_3.webmhd.webm" crc="4126600902" mt="1428794511000"/>
+    <file name="video3.png" crc="4178942505" mt="1428795232000"/>
+    <file name="final_movie2.m4v" crc="4227185286" mt="1429754404000"/>
+    <file name="final_movie3.m4v" crc="4095362416" mt="1429755680000"/>
+    <file name="final_open.m4v" crc="7370677" mt="1429579085000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>gallery-2:phone>gallery-3:tablet>index:tablet>gallery-2:tablet>gallery-3:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>gallery-2:phone>gallery-3:tablet>index:tablet>gallery-2:tablet>gallery-3:index"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:tablet>index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:tablet>index"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>gallery-2:phone>gallery-3:tablet>index:tablet>gallery-2:tablet>gallery-3:index"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:tablet>gallery-2:tablet>gallery-3:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="forest1.jpg" crc="311207461" ref="phone>index:tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index"/>
+    <file name="forest2.jpg" crc="133043123" ref="phone>index:tablet>index:index"/>
+    <file name="forest3.jpg" crc="4134616968" ref="phone>index:tablet>index"/>
+    <file name="forest4.jpg" crc="3848056552" ref="phone>index:tablet>index"/>
+    <file name="forest5.jpg" crc="229708974" ref="phone>index:tablet>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index"/>
+    <file name="colorperfect_background.jpg" crc="440848927" ref="index"/>
+    <file name="u3124-4.png" crc="3995017203" ref="index"/>
+    <file name="u3131-4.png" crc="166541527" ref="index"/>
+    <file name="u3137-4.png" crc="4119578548" ref="index"/>
+    <file name="u2625-11.png" crc="289574751" ref="index"/>
+    <file name="u2629-7.png" crc="70588538" ref="index"/>
+    <file name="u2626-11.png" crc="203820748" ref="index"/>
+    <file name="colorperfect_background2.jpg" crc="4174553631" ref="index"/>
+    <file name="u3134-4.png" crc="170257449" ref="index"/>
+    <file name="u2627-5.png" crc="72711747" ref="index"/>
+    <file name="u3139-4.png" crc="4108296791" ref="index"/>
+    <file name="colorperfect_background3.jpg" crc="388735119" ref="index"/>
+    <file name="u3141-4.png" crc="166269539" ref="index"/>
+    <file name="u2630-8.png" crc="380835716" ref="index"/>
+    <file name="u2631-10.png" crc="3983749773" ref="index"/>
+    <file name="u2628-9.png" crc="3826823808" ref="index"/>
+    <file name="u3143-4.png" crc="3828267113" ref="index"/>
+    <file name="colorperfect_background4.jpg" crc="390390463" ref="index"/>
+    <file name="u3146-4.png" crc="4071001155" ref="index"/>
+    <file name="u2632-10.png" crc="3979845161" ref="index"/>
+    <file name="colorperfect_background5.jpg" crc="4086466486" ref="index"/>
+    <file name="u3148-4.png" crc="411653044" ref="index"/>
+    <file name="u2641-6.png" crc="86726134" ref="index"/>
+    <file name="colorperfect_background6.jpg" crc="4287709235" ref="index"/>
+    <file name="u3150-4.png" crc="4283847901" ref="index"/>
+    <file name="colorperfect_background7.jpg" crc="175371373" ref="index"/>
+    <file name="u3152-4.png" crc="4235021116" ref="index"/>
+    <file name="u2634-8.png" crc="3855466736" ref="index"/>
+    <file name="u2633-8.png" crc="4284342354" ref="index"/>
+    <file name="colorperfect_background8.jpg" crc="4133177955" ref="index"/>
+    <file name="u3156-4.png" crc="3950833031" ref="index"/>
+    <file name="u2642-5.png" crc="3918289188" ref="index"/>
+    <file name="u3154-4.png" crc="520892347" ref="index"/>
+    <file name="u2635-11.png" crc="130807354" ref="index"/>
+    <file name="colorperfect_background10.jpg" crc="364073520" ref="index"/>
+    <file name="u3160-4.png" crc="20389092" ref="index"/>
+    <file name="colorperfect_background9.jpg" crc="521750456" ref="index"/>
+    <file name="u3158-4.png" crc="4222906708" ref="index"/>
+    <file name="u2636-10.png" crc="4252298804" ref="index"/>
+    <file name="u2637-13.png" crc="4191486770" ref="index"/>
+    <file name="u3162-4.png" crc="3902509878" ref="index"/>
+    <file name="u2638-11.png" crc="4193468629" ref="index"/>
+    <file name="colorperfect_background11.jpg" crc="285669837" ref="index"/>
+    <file name="u3164-4.png" crc="7999619" ref="index"/>
+    <file name="u2639-9.png" crc="3960866457" ref="index"/>
+    <file name="colorperfect_background12.jpg" crc="285998626" ref="index"/>
+    <file name="u2643-24.png" crc="345560303" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="gallery-3.css" crc="4019550095" ref="tablet>gallery-3"/>
+      <file name="index.css" crc="520022701" ref="tablet>index"/>
+      <file name="gallery-2.css" crc="4019550095" ref="tablet>gallery-2"/>
+    </folder>
+    <file name="index.html" crc="3948257233" mt="1429049298065" redirect="true"/>
+    <file name="gallery-2.html" crc="68113050" mt="1429049298065" redirect="true"/>
+    <file name="gallery-3.html" crc="4129596950" mt="1429049298065" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="345320955" ref="phone>index"/>
+      <file name="gallery-2.css" crc="4159424365" ref="phone>gallery-2"/>
+      <file name="gallery-3.css" crc="4159424365" ref="phone>gallery-3"/>
+    </folder>
+    <file name="index.html" crc="4005191266" mt="1429049298066" redirect="true"/>
+    <file name="gallery-2.html" crc="501770013" mt="1429049298066" redirect="true"/>
+    <file name="gallery-3.html" crc="3948335826" mt="1429049298066" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="476284747" mt="1430346903717" redirect="true"/>
+</manifest>
